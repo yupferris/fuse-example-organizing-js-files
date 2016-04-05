@@ -1,3 +1,15 @@
 <App Theme="Basic">
+	<DockPanel>
+		<StatusBarBackground Dock="Top" />
+		<BottomBarBackground Dock="Bottom" />
+
+		<JavaScript>
+			module.exports = {
+				someText: "Some text!"
+			};
+		</JavaScript>
+
+		<Text Value="{someText}" />
+	</DockPanel>
 </App>
 
