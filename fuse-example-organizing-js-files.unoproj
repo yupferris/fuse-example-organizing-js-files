@@ -26,6 +26,9 @@
         "Uno.Geometry"
   ],
   "Includes": [
-    "*"
+    "*",
+    "a.js:Bundle",
+    "c.js:Bundle",
+    "more-js/*.js:Bundle"
   ]
 }

@@ -3,11 +3,7 @@
 		<StatusBarBackground Dock="Top" />
 		<BottomBarBackground Dock="Bottom" />
 
-		<JavaScript>
-			module.exports = {
-				someText: "Some text!"
-			};
-		</JavaScript>
+		<JavaScript File="main.js" />
 
 		<Text Value="{someText}" />
 	</DockPanel>
