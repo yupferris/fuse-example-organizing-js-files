@@ -1,5 +1,5 @@
 # fuse-example-organizing-js-files
-Example project to accompany the "[Organizing JS Files](https://www.youtube.com/watch?v=5AoCdAKPLn4)" Fuse tutorial video. This is a super simple app that shows a few common cases for splitting up JS into multiple module files in Fuse.
+Example project to accompany the "[Organizing JS Files](https://youtu.be/DPUA1KVu-ks)" Fuse tutorial video. This is a super simple app that shows a few common cases for splitting up JS into multiple module files in Fuse.
 
 ## Fuse version
 This example was produced with Fuse (beta) v0.11.0 (build 6183).
